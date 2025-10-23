@@ -2,14 +2,14 @@
 
 This repository contains my personal **Curriculum Vitae (CV)** in PDF format.
 
-![CV Preview](cv-preview.jpg)
-
 ## About
 The document presents my education, skills, and professional experience.  
 It will later be updated with an HTML/CSS version for a web-based portfolio.
 
 ## Contents
 - `Donald_Tcheuwa_CV.pdf`
+
+![CV Preview](cv-preview.jpg)
 
 ## Author
 **Donald Tcheuwa**  
