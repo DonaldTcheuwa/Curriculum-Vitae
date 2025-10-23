@@ -2,6 +2,8 @@
 
 This repository contains my personal **Curriculum Vitae (CV)** in PDF format.
 
+![CV Preview](cv-preview.png)
+
 ## About
 The document presents my education, skills, and professional experience.  
 It will later be updated with an HTML/CSS version for a web-based portfolio.
