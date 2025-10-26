@@ -3,8 +3,8 @@
 This repository contains my personal **Curriculum Vitae (CV)** in PDF format.
 
 ## About
-The document presents my education, skills, and professional experience.  
-It will later be updated with an HTML/CSS version for a web-based portfolio.
+Das Dokument stellt meine Ausbildung, Fähigkeiten und Berufserfahrung dar.
+Es wird später mit einer HTML/CSS-Version für ein webbasiertes Portfolio aktualisiert.
 
 ## Contents
 - `Donald_Tcheuwa_CV.pdf`
